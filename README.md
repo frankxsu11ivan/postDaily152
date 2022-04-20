@@ -1,4 +1,4 @@
-# postDaily152
+# PostDaily152
 Daily Code
 Given n numbers as well as n probabilities that sum up to 1. 
 Function to generate one of the numbers with its corresponding probability.
